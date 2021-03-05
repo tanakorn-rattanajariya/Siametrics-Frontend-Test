@@ -54,4 +54,7 @@ GET /jobs
 GET /nodes
 ```
 
+## Submission
+1. Send your git repo and also add markdown note to make sure we can run your program
+
 ## Good luck !!
