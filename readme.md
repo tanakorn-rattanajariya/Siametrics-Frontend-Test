@@ -6,7 +6,7 @@
 - You **can** use any Web component library.
 - You **must** use React-Redux-Saga or React-Hooks.
 - You **should** always determine best practice and web performace.
-- You **can** use web worker, service worker to help.increasing web performance if it is necessary.
+- You **can** use web worker, service worker to help increasing web performance if it is necessary.
 - You **can** use webpack, babel, linter or any library to help you.
 - You **must** create unit tests using jest.
 
